@@ -86,6 +86,20 @@ Explore tools to create animations, transitions, loaders, and improve design eff
 - [CSS Scan (Box Shadow Examples)](https://getcssscan.com/css-box-shadow-examples)
 
 ---
+  
+## ⚡ JavaScript Websites & Libraries  
+Enhance your projects with animations, alerts, and helpful JavaScript libraries.
+
+### Animation Libraries
+- [Wow.js](https://wowjs.uk/)
+  - [Wow.js GitHub](https://github.com/matthieua/WOW)
+- [GSAP (GreenSock Animation Platform)](https://greensock.com/gsap/)
+
+### Alert & Utility Libraries
+- [Sweet Alert 2](https://sweetalert2.github.io/)
+- [I Hate Regex](https://ihateregex.io/)
+
+---
 
 ## 📦 Build Tools & Development Utilities  
 Make development easier and more productive.
