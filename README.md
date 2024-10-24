@@ -64,6 +64,29 @@ Tools to make your apps accessible and multilingual.
 
 ---
 
+## 🎨 CSS Tools & Websites  
+Explore tools to create animations, transitions, loaders, and improve design efficiency.
+
+### CSS Animation & Transition Websites
+- [CSS Animation (XS Games)](https://xsgames.co/)
+- [CSS Transition (Animista)](https://animista.net/)
+
+### Component & Styling Generators
+- [CSS Components (Uiverse)](https://uiverse.io/)
+- [WVG Waves (Shapedivider)](https://www.shapedivider.app/)
+- [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator/)
+
+### Loaders & Background Generators
+- [CSS Loaders (Ubial)](https://uiball.com/loaders/)
+- [CSS Loaders (Loading.io)](https://loading.io/)
+- [Animated CSS Background Generator](https://wweb.dev/resources/animated-css-background-generator/)
+
+### CSS Utilities & Other Tools
+- [Image Compression (Squoosh)](https://squoosh.app/)
+- [CSS Scan (Box Shadow Examples)](https://getcssscan.com/css-box-shadow-examples)
+
+---
+
 ## 📦 Build Tools & Development Utilities  
 Make development easier and more productive.
 
